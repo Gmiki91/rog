@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RoG</string>
+    <string name="title">Revenge on GE</string>
+    <string name="new_game">Új játék</string>
+    <string name="continue_game">Folytatás</string>
+    <string name="exit">Kilépés</string>
 </resources>
